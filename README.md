@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+>Working on a project to keep all profiles links together.
+>Currently using JavaScript.
+>Focusing on ReactJS.
+
 <!--
 **ritikrana4/ritikrana4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
