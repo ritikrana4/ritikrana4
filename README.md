@@ -1,20 +1,28 @@
-### Hi there 👋
+# Hi there, I'm Ritik Rana 🤞
 
->Working on a project to keep all profiles links together.
->Currently using JavaScript.
->Focusing on ReactJS.
+# My Tech Stack 💻
+- **Frontend**: JavaScript, React.js, Figma
+- **Backend**: Node.js, Express.js
+- **Databases**: Firestore, MongoDB
 
-<!--
-**ritikrana4/ritikrana4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Projects
+## Task App ✔
+- Simple Todo app using Plain JavaScript to understand DOM manipulation
 
-Here are some ideas to get you started:
+## Covid-19 ☀
+- App to track Covid Cases
+- Get Real News from WHO and GOI
+- Details of Beds in Hospitals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Socialy 🪐
+- App to share all Social Handle using Single link
+- User can also download QR code and use it to share profile.
+
+# Open Source Contribution:
+I'm an active contributor at [Real Dev Squad](https://github.com/Real-Dev-Squad)
+
+![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikrana4&&hide=stars&show_icons=true)
+
+# Social Life 📫
+- [Twitter](https://twitter.com/rtktwt)
+- [LinkedIn](https://in.linkedin.com/in/ritikrana)
