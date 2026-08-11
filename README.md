@@ -11,7 +11,7 @@ Senior Software Engineer with **4+ years of experience** shipping production fea
 ## 🚀 What I'm Working On
 
 
-- ⚡ **Currently building Tribit** — — a visual git worktree manager with an embedded AI terminal, packaged as a native desktop app.
+- ⚡ **Currently building [Tribit](https://ritikrana.in/projects/tribit/)** — — a visual git worktree manager with an embedded AI terminal, packaged as a native desktop app.
 
 ---
 
